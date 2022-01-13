@@ -1,0 +1,1 @@
+insert PedidoItem values(1, 1, 1.5, 2);

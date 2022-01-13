@@ -1,0 +1,5 @@
+insert Produtos values(1, 'Caneta', 'Caneta Azul', 1.5)
+insert Produtos values(2, 'Caderno', 'Caderno 10 Mataérias', 20.59)
+insert Produtos values(3, 'Borracha', 'Borracha Apaga tudo', 1.10)
+insert Produtos values(4, 'Lapizeira', 'Lapizeira de Personganes', 4.75)
+insert Produtos values(5, 'Mochila', 'Mochila Grande', 90.99)
